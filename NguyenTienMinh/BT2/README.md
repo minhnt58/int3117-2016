@@ -16,9 +16,9 @@ STT | % 2 = 0 | % 3 = 0 | % 5 = 0 | Result|
 8|F|F|F|r+2
 
 ### Test case khi dùng phương pháp MC/DC
-4, 5, 6, 7, 8
+2, 4, 6, 7
 
--> sử dụng MC/DC tiết kiệm được 3 test case
+-> sử dụng MC/DC tiết kiệm được 4 test case
 
 ### Chạy test:
 ```
